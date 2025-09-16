@@ -1,7 +1,7 @@
 # 📊 Customer Retention & Churn Analysis
 
 **Tech Stack / Tools Used:**  
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Handling-lightblue) ![NumPy](https://img.shields.io/badge/NumPy-Data%20Handling-orange) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-blueviolet) ![XGBoost](https://img.shields.io/badge/XGBoost-ML-yellowgreen) ![SMOTE](https://img.shields.io/badge/SMOTE-Balancing-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow) ![Editor](https://img.shields.io/badge/Editor-Google%20Colab-lightblue)![Status](https://img.shields.io/badge/Status-Completed-green)
 
 End-to-end **Customer Churn Analysis & Prediction** using IBM Telco dataset: **EDA, SMOTE + XGBoost modeling, and business insights** with CLV & Revenue-at-Risk analysis.
 
